@@ -39,5 +39,3 @@ Classification Report: Precision, recall, F1-score for each class
 Contributing
 Contributions are welcome! Fork this repository, make your changes, and submit a pull request. Please raise an issue for discussion before making any major changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
