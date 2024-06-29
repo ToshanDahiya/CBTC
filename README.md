@@ -1,5 +1,5 @@
-Iris Flower Classification Project
-
+**Iris Flower Classification Project
+**
 Overview
 This project demonstrates a classic machine learning task: Iris Flower Classification using various algorithms including k-Nearest Neighbors (k-NN) and Support Vector Machines (SVM). The goal is to classify iris flowers into three species based on their sepal and petal measurements.
 
