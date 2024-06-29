@@ -1,5 +1,5 @@
 Iris Flower Classification Project
-![Uploading image.png…]()
+![image](https://github.com/ToshanDahiya/CBTC/assets/106590260/66169dd1-08c6-4500-ab79-9cb462d5f633)
 
 
 Overview
