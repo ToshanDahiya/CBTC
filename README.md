@@ -10,16 +10,12 @@ Evaluation of model performance with accuracy, confusion matrix, and classificat
 Installation
 To run this project locally, follow these steps:
 
-1) Clone Repository:
-"git clone https://github.com/your-username/iris-flower-classification.git
-cd iris-flower-classification"
-
-2) Setup Environment:
+1) Setup Environment:
 
 Install necessary libraries:
 "pip install -r requirements.txt"
 
-3) Run Jupyter Notebook
+2) Run Jupyter Notebook
 
 Project Structure
 a) iris_classification.ipynb: Jupyter Notebook containing the project code.
